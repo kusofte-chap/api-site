@@ -6,3 +6,4 @@ dist/
 *.egg*
 .rope*
 run.sh
+ver/
