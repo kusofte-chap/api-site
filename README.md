@@ -20,6 +20,10 @@
 
   ```
 
+#### 3.编辑文档  
++ 点击页面`edit`按钮可以直接进入github编辑页面修改文旦
++ 在本地编辑好推送到远程仓库的`gh-pages分支`  
+  
 
-#### 3.关于markdown
+#### 4.关于markdown
   需要了解基本的markdown<a href='http://www.markdown.cn/' target='_blank'>语法</a>，内容不多只有十几个语法推荐使用<a href='https://typora.io/' target='_blank'>Typora</a> 编辑器。
